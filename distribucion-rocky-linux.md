@@ -32,3 +32,4 @@ los desarrolladores pueden optimizar y depurar su código más fácilmente con e
 * Empaquetado de módulos:
   varios sistemas de gestión de paquetes, como Flatpaks y RPM Package Manager, son compatibles con Rocky Linux. Permiten a los desarrolladores instalar y utilizar su paquete preferido más fácilmente.
 Supervisión del sistema: Rocky Linux es compatible con la consola web Cockpit para la supervisión del rendimiento. Ayuda a identificar problemas relacionados con un uso anormal de los recursos y de la red.
+![rocky2](img/rocky2.png)
