@@ -3,18 +3,6 @@
   Al igual que CentOS, la distribución descendente Rocky Linux es una opción popular para estaciones de trabajo y servidores privados virtuales (VPS). Es una alternativaa popular a otro clon de RHEL, *CentOS*.
   *Rocky Enterprise Software Foundation (RESF)* desarrolla el sistema operativo y ofrece diez años de soporte con actualizaciones periódicas. Esta distribución Linux preparada para empresas se utiliza habitualmente para servidores o estaciones de trabajo empresariales.
 ![rocky-linux](img/RockyLinux.png)
-* Repositorios:
-  
-Rocky Linux proporciona un conjunto diferente de repositorios base para cada versión principal. También hay otros aprobados por la comunidad que se pueden instalar desde los repositorios adicionales.
-
-Esta distribución admite tres tipos de repositorios que se incluyen por defecto o se pueden instalar manualmente:
-
-* Base:
-Los repositorios por defecto que vienen preinstalados en Rocky Linux.
-* Extra:
-Contiene paquetes adicionales destinados a mejorar la funcionalidad de tu sistema. Algunos de ellos son necesarios para la instalación de los repositorios aprobados por la comunidad.
-* Aprobados por la comunidad:
-Repositorios de terceros proveedores que contienen paquetes no oficiales. También están disponibles para otras distribuciones Linux empresariales.
 
 * Características:
   Como clon de RHEL, Rocky Linux es compatible con la mayoría de sus características. Sin embargo, algunas propias sólo están disponibles en RHEL, como live patching y Red Hat Sattelite.
