@@ -2,6 +2,7 @@
 * Los paquetes rpm son los estándar para las distribuciones basadas en Redhat. Los paquetes **RPM** *(Redhat Package Manager)* están pensados para agrupar el código fuente de un programa junto un pequeña cabecera con toda la información de paquetes y su instalación.
 * Con el paso del tiempo, las características del sistema de gestión de paquetes **RPM** se han mejorado mucho gracias a la eliminación de limitaciones y parches que contenían las versiones anteriores. Actualmetne, los archivos RPM contienen una base enormemente mejorada de información utilizada en la verificación de los archivos de instalación. 
 * Dado que **RPM** se construyó como un formato basado en Linux, algunas características variarán cuando se utilicen en Windows pero pueden abrirse con varios programas de compresión de archivos como 7-Zip. 
+![rpm](img/rpm.png)
 <!-- linea horizontal -->
 ---
 ---
