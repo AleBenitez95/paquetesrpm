@@ -2,6 +2,7 @@
 * ¿Qué es Rocky Linux?
   Al igual que CentOS, la distribución descendente Rocky Linux es una opción popular para estaciones de trabajo y servidores privados virtuales (VPS). Es una alternativaa popular a otro clon de RHEL, *CentOS*.
   *Rocky Enterprise Software Foundation (RESF)* desarrolla el sistema operativo y ofrece diez años de soporte con actualizaciones periódicas. Esta distribución Linux preparada para empresas se utiliza habitualmente para servidores o estaciones de trabajo empresariales.
+
 ![rocky-linux](img/RockyLinux.png)
 
 * Características:
@@ -20,4 +21,5 @@ los desarrolladores pueden optimizar y depurar su código más fácilmente con e
 * Empaquetado de módulos:
   varios sistemas de gestión de paquetes, como Flatpaks y RPM Package Manager, son compatibles con Rocky Linux. Permiten a los desarrolladores instalar y utilizar su paquete preferido más fácilmente.
 Supervisión del sistema: Rocky Linux es compatible con la consola web Cockpit para la supervisión del rendimiento. Ayuda a identificar problemas relacionados con un uso anormal de los recursos y de la red.
+
 ![rocky2](img/rocky2.png)
